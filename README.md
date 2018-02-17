@@ -1,4 +1,5 @@
 # os181
 ZCZC Sistem Operasi 2018 Awal (1)
 
-Saya sudah mengerjakan demo week00
+ZCZC W00
+ZCZC W01
